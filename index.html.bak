@@ -7,7 +7,6 @@
   <body>
     <p>Hey guys. what is good.
     <br> Nothing much my dude</p>
-	<p2> Hey guys. It's me Joseph and it's litty titty tonight </p2>
     <p>Open up the console to see javascript code</p>
     <script src = "test.js"></script>
   </body>
